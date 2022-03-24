@@ -1,0 +1,60 @@
+"My credit" = "My credit";
+"Credits" = "Credits";
+"Add Credit" = "Add Credit";
+"Nothing Added" = "Nothing Added";
+"Add your first credit" = "Add your first credit";
+
+"Payment on" = "Payment on";
+"Paid" = "Paid";
+"Balance" = "Balance";
+
+"Calculation" = "Calculation";
+
+"Title" = "Title";
+"Enter a title" = "Enter a title";
+"Amount" = "Amount";
+"Rate, %" = "Rate, %";
+"Term, month(s)" = "Term, month(s)";
+"Date of credit" = "Date of credit";
+
+"Monthly payment" = "Monthly payment";
+"Total" = "Total";
+"Interest" = "Interest";
+"Show payment schedule" = "Show payment schedule";
+"Save" = "Save";
+
+"Rate" = "Rate";
+"out of" = "out of";
+"Until" = "Until";
+"Add advance payment" = "Add advance payment";
+"Delete credit?" = "Delete credit?";
+"All information about this credit will be deleted." = "All information about this credit will be deleted.";
+
+"Advance Payment" = "Advance Payment";
+"Term reduction" = "Term reduction";
+"Payment reduction" = "Payment reduction";
+"Invalid date" = "Invalid date";
+"The selected date is outside the credit schedule." = "The selected date is outside the credit schedule.";
+"Edit payment" = "Edit payment";
+
+"Loan term will " = "Loan term will ";
+"month(s)." = "month(s).";
+ 
+"Due to early repayments, the total cost of the loan will " = "Due to early repayments, the total cost of the loan will ";
+"decrease by" = "decrease by";
+"increase by" = "increase by";
+"Monthly payment will " = "Monthly payment will ";
+
+"from" = "from";
+"to" = "to";
+
+"Payment schedule" = "Payment schedule";
+
+"Date" = "Date";
+"Payment" = "Payment";
+"Principal" = "Principal";
+"Incorrect payment amount or date outside the credit range" = "Incorrect payment amount or date outside the credit range";
+"Settings" = "Settings";
+"Support" = "Support";
+
+"We are constantly improving our app. So please, if you find any bugs or notice incorrect work, please contact us using the link below. We're also open to your suggestions on improvements." = "We are constantly improving our app. So please, if you find any bugs or notice incorrect work, please contact us using the link below. We're also open to your suggestions on improvements.";

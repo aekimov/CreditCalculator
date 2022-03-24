@@ -1,0 +1,60 @@
+"My credit" = "Кредит";
+"Credits" = "Кредиты";
+"Add Credit" = "Добавить кредит";
+"Nothing Added" = "Нет кредитов";
+"Add your first credit" = "Добавьте ваш первый кредит";
+
+"Payment on" = "Платеж";
+"Paid" = "Выплачено";
+"Balance" = "Баланс";
+
+"Calculation" = "Расчет";
+
+"Title" = "Название";
+"Enter a title" = "Введите название";
+"Amount" = "Сумма";
+"Rate, %" = "Ставка, %";
+"Term, month(s)" = "Срок кредита, мес.";
+"Date of credit" = "Дата выдачи кредита";
+
+"Monthly payment" = "Ежемесячный платеж";
+"Total" = "Полная сумма";
+"Interest" = "Проценты";
+"Show payment schedule" = "Показать график платежей";
+"Save" = "Сохранить";
+
+"Rate" = "Ставка";
+"out of" = "из";
+"Until" = "Кредит до";
+"Add advance payment" = "Добавить досрочный платеж";
+"Delete credit?" = "Удалить кредит?";
+"All information about this credit will be deleted." = "Вся информация об этом кредите будет удалена.";
+
+"Advance Payment" = "Досрочный платеж";
+"Term reduction" = "Уменьшение срока";
+"Payment reduction" = "Уменьшение платежа";
+"Invalid date" = "Некорректная дата";
+"The selected date is outside the credit schedule." = "Выбранная дата находится за пределами кредита.";
+"Edit payment" = "Изменить платеж";
+
+"Loan term will " = "Срок кредита ";
+"month(s)." = "месяца(-ев).";
+
+"Due to early repayments, the total cost of the loan will " = "За счет досрочных погашений общая стоимость кредита ";
+"decrease by" = "уменьшится на";
+"increase by" = "увеличится на";
+"Monthly payment will " = "Ежемесячный платеж ";
+
+"from" = "с";
+"to" = "до";
+
+"Payment schedule" = "График платежей";
+
+"Date" = "Дата";
+"Payment" = "Платеж";
+"Principal" = "Основной";
+"Incorrect payment amount or date outside the credit range" = "Дата вне диапазона кредита";
+"Settings" = "Настройки";
+"Support" = "Поддержка";
+
+"We are constantly improving our app. So please, if you find any bugs or notice incorrect work, please contact us using the link below. We're also open to your suggestions on improvements." = "Мы постоянно улучшаем наше приложение. Если вы обнаружите какие-либо ошибки или заметите некорректную работу, пожалуйста, свяжитесь с нами по ссылке ниже. Также мы открыты для ваших предложений по улучшению приложения.";
